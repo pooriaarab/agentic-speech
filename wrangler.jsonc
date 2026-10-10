@@ -1,0 +1,8 @@
+{
+  "name": "agentic-speech",
+  "main": "src/worker.ts",
+  "compatibility_date": "2026-01-01",
+  "vars": {
+    "PACK_NAME": "agentic-speech"
+  }
+}

@@ -1,0 +1,16 @@
+# agentic-speech
+
+Route text to speech across ElevenLabs, OpenAI, and Cartesia.
+
+Keywords: text-to-speech, elevenlabs, agentic-suite, claude-code, codex, cli, mcp.
+
+- SDK: import { synthesizeSpeech, listVoices } from "agentic-speech".
+- CLI: agentic-speech speak --text "...".
+- MCP: run agentic-speech mcp, then call synthesize_speech.
+
+## Docs
+
+- README: https://github.com/pooriaarab/agentic-speech
+- Core contract: https://github.com/pooriaarab/agentic-speech/blob/main/docs/agentic-core.md
+- Speech setup: https://github.com/pooriaarab/agentic-speech/blob/main/docs/speech.md
+- License: MIT

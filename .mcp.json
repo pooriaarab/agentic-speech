@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "agentic-speech": {
+      "command": "npx",
+      "args": ["-y", "agentic-speech", "mcp"]
+    }
+  }
+}
