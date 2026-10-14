@@ -1,15 +1,20 @@
 {
   "name": "agentic-speech",
   "version": "0.1.0",
-  "description": "Route text to speech across ElevenLabs, OpenAI, and Cartesia.",
+  "description": "Generate MP3 and WAV speech with ElevenLabs, OpenAI, and Cartesia through a TypeScript SDK, CLI, or MCP server with dry-run previews.",
   "keywords": [
     "text-to-speech",
+    "speech-synthesis",
     "elevenlabs",
-    "agentic-suite",
-    "claude-code",
-    "codex",
+    "openai",
+    "cartesia",
+    "typescript",
+    "sdk",
     "cli",
-    "mcp"
+    "mcp",
+    "mp3",
+    "wav",
+    "dry-run"
   ],
   "license": "MIT",
   "author": "Pooria Arab",
