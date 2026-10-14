@@ -1,6 +1,6 @@
 {
   "name": "agentic-speech",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generate MP3 and WAV speech with ElevenLabs, OpenAI, and Cartesia through a TypeScript SDK, CLI, or MCP server with dry-run previews.",
   "keywords": [
     "text-to-speech",
